@@ -1,0 +1,16 @@
+/*
+Product Screenshot  admin style.
+Contain all admin style of the plugin.
+
+Since: 1.0.0
+*/
+.prscrt-group-section.csf-field .csf-title {
+  position: relative;
+  width: 100%;
+  float: none;
+  margin-bottom: 15px;
+}
+.prscrt-group-section.csf-field .csf-fieldset {
+  float: none;
+  width: 100%;
+}
